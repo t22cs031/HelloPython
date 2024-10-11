@@ -4,7 +4,7 @@ Created on 2024/10/11
 @author: uta
 '''
 
-print('Hello, Python world!')
+print('Hello, Python world')
 
 #型の定義は必要ない
 a = 10
